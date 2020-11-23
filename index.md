@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+# 3850 Miniproject | COVID-19
 
 [Link to another page](./another-page.md).
 
