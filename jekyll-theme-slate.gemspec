@@ -4,9 +4,9 @@ Gem::Specification.new do |s|
   s.name          = 'jekyll-theme-slate'
   s.version       = '0.1.1'
   s.license       = 'CC0-1.0'
-  s.authors       = ['Jason Costello', 'GitHub, Inc.']
+  s.authors       = ['Abhinav Manocha', 'Sabrina ', 'GitHub, Inc.']
   s.email         = ['opensource+jekyll-theme-slate@github.com']
-  s.homepage      = 'https://github.com/pages-themes/slate'
+  s.homepage      = 'https://abhinavmanocha.github.io/3850Project/'
   s.summary       = 'Slate is a Jekyll theme for GitHub Pages'
 
   s.files         = `git ls-files -z`.split("\x0").select do |f|
