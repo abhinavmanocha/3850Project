@@ -299,19 +299,19 @@ Full-Width Styles
 
 #downloads {
   position: absolute;
-  width: 210px;
+  width: 2em;
   z-index: 10;
   bottom: -40px;
   right: 0;
-  height: 70px;
+  height: 2em;
   background: url('../images/a1.png') no-repeat 0% 90%;
 }
 
 .zip_download_link {
   display: block;
   float: right;
-  width: 90px;
-  height:70px;
+  width: 2em;
+  height:2em;
   text-indent: -5000px;
   overflow: hidden;
   background: url(../images/a1.png) no-repeat bottom left;
