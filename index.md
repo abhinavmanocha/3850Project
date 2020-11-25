@@ -2,7 +2,7 @@
 layout: default
 ---
 
-## Choosing the Right Software for Your Business
+# Choosing the Right Software for Your Business
 #### [Link](./Choosing the Right Software for Your Business.md).
 
 # 3850 Miniproject | COVID-19
