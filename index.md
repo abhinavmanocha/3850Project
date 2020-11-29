@@ -5,8 +5,8 @@ layout: default
 # [Choosing the Right Software for Your Business](./Choosing the Right Software for Your Business.md)
 ### Description:
 
-# [Interview](./Interview.md)
-### Description:
+# [Interview - Featuring David Straughan](./Interview.md)
+#### Description: David manages the tax practice and is responsible for the technology that the firm uses on a daily basis. In a fast-paced environment with several work processes, his team uses both Microsoft Teams and Microsoft Planner to effectively communicate and manage projects. I've asked him some questions to gain some insight into his software decisions and implementation process.
 
 # [Software](./Software.md)
 ### Description: 
