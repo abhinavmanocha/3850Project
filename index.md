@@ -3,7 +3,7 @@ layout: default
 ---
 
 # [Choosing the Right Software for Your Business](./Choosing the Right Software for Your Business.md)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; **Working in a shared office space has always been the standard for project management teams. Only recently have virtual work environments started to become more popular, although they are often found to be less effective. However, amid the pandemic teams do not have the choice to work in an office, all communications and processes are becoming virtual due to COVID-19 restrictions. Many companies may find themselves lost in this transition. How does one go about virtual project management while still maintaining efficiency?**
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Working in a shared office space has always been the standard for project management teams. Only recently have virtual work environments started to become more popular, although they are often found to be less effective. However, amid the pandemic teams do not have the choice to work in an office, all communications and processes are becoming virtual due to COVID-19 restrictions. Many companies may find themselves lost in this transition. How does one go about virtual project management while still maintaining efficiency?*
 
 # [Interview - Featuring David Straughan](./Interview.md)
 ##### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *David manages the tax practice and is responsible for the technology that the firm uses on a daily basis. In a fast-paced environment with several work processes, his team uses both Microsoft Teams and Microsoft Planner to effectively communicate and manage projects. This article delves into his software decisions and implementation process.*
