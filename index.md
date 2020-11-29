@@ -2,11 +2,10 @@
 layout: default
 ---
 
-# [Choosing the Right Software for Your Business] (./Choosing the Right Software for Your Business.md)
+# [Choosing the Right Software for Your Business]
+#### [Link](./Choosing the Right Software for Your Business.md).
 
-
-# Interview
-#### [Link to another page](./Interview.md).
+# [Interview](./Interview.md).
 
 # Software
 #### [Link to another page](./Software.md).
