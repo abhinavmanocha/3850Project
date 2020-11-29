@@ -6,7 +6,7 @@ layout: default
 ##### Description:
 
 # [Interview - Featuring David Straughan](./Interview.md)
-*David manages the tax practice and is responsible for the technology that the firm uses on a daily basis. In a fast-paced environment with several work processes, his team uses both Microsoft Teams and Microsoft Planner to effectively communicate and manage projects. This article delves into his software decisions and implementation process.*
+###### *David manages the tax practice and is responsible for the technology that the firm uses on a daily basis. In a fast-paced environment with several work processes, his team uses both Microsoft Teams and Microsoft Planner to effectively communicate and manage projects. This article delves into his software decisions and implementation process.*
 
 # [Software](./Software.md)
 ##### Description: 
