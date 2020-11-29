@@ -42,6 +42,11 @@
         <p class="copyright">{{ site.title | default: site.github.repository_name }} © 2020 Abhinav Manocha, Michael Straughan, Sabrina Chapados-Wlodarczyk </p>
         <p>*Opinions expressed on this website do not represent the views of Trent University*</p>
         {% endif %}
+        {% if site.show_downloads %}
+          <section id="downloads">
+            <a class="zip_download_link" href="{{ https://abhinavmanocha.github.io/3850Project/ }}"> </a>
+          </section>
+        {% endif %}
       </footer>
     </div>
 
