@@ -2,21 +2,18 @@
 layout: default
 ---
 
-# [Choosing the Right Software for Your Business]
-#### [Link](./Choosing the Right Software for Your Business.md).
+# [Choosing the Right Software for Your Business](./Choosing the Right Software for Your Business.md)
+### Description:
 
-# [Interview](./Interview.md).
+# [Interview](./Interview.md)
+### Description:
 
-# Software
-#### [Link to another page](./Software.md).
+# [Software](./Software.md)
+### Description: 
 
-# Covid-19 Kickstarting Remote Work Culture
-#### [Link to another page](./2020-11-22-covid-19-kickstarting-remote-work-culture.md).
+# [Covid-19 Kickstarting Remote Work Culture](./2020-11-22-covid-19-kickstarting-remote-work-culture.md)
+### Description:
 
-# Managing Projects During the Covid-19 Pandemic Impact Across Industries
-#### [Link to another page](./2020-11-22-managing-projects-during-the-covid-19-pandemic-impact-across-industries.md).
-
-# 3850 Miniproject | COVID-19
-#### [Link to another page](./another-page.md).
-
+# [Managing Projects During the Covid-19 Pandemic Impact Across Industries](./2020-11-22-managing-projects-during-the-covid-19-pandemic-impact-across-industries.md).
+### Description:
 
