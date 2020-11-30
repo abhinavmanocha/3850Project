@@ -33,7 +33,7 @@ Google is the most unsurprising response. Best companion to everyone.
 Other ways I helped myself:
 -	Called for advice from friends/co-workers
 -	Join communities on Facebook that help fix my problems. People who have similar working experiences will bounce ideas off each other.
--	Approach helpdesk (IT)
+-	Approach helpdesk (IT)/
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; o	They have not been timely and are only available during the day at specific hours, but the problem will be fixed sooner or later.
 
 ## What challenges did you face while overcoming technological barriers?
