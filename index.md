@@ -12,6 +12,11 @@ layout: default
 
 ##### __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
+## [Implementing Project Management Software](./Implementation.md)
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Implementing project management software has the potential to bring many benefits to an organization. It can make work processes easier to review and far more efficient.  However, if the software isn’t implemented properly and constantly supported by the company, many things can go wrong.*
+
+##### __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+
 ## [Covid-19 Kickstarting Remote Work Culture](./2020-11-22-covid-19-kickstarting-remote-work-culture.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;*Management had been challenging efforts to introduce work-from-home policies, fearing decreased productivity. In the wake of COVID-19, companies like Desjardins had to shift towards a remote work culture, whether they wanted to or not.*
 
