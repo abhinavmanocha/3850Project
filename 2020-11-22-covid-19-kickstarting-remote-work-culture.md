@@ -5,7 +5,9 @@ date:   2020-11-22 12:00:00 -0500
 categories: jekyll update
 ---
 
-## by Sabrina Chapados & Ruth Wallace
+# COVID-19 Kickstarting Remote Work Culture
+
+## By Sabrina Chapados & Ruth Wallace
 
 Leanne Straughan had been one of few remote team members with Desjardins long before COVID-19. She managed accounts across Ontario and Quebec by communicating with clients and colleagues primarily over the phone. Every 4-6 weeks, Straughan commuted to Quebec for in-person meetings. Management had been challenging efforts to introduce work-from-home policies, fearing decreased productivity. In the wake of COVID-19, companies like Desjardins had to shift towards a remote work culture, whether they wanted to or not. 
 

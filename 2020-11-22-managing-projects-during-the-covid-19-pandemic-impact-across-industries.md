@@ -5,7 +5,10 @@ date:   2020-11-22 12:00:00 -0500
 categories: jekyll update
 ---
 
-## By Sabrina Chapados
+# Managing Projects During the Covid-19 Pandemic: Impact Across Industries
+
+### By Sabrina Chapados
+
 
 Mass layoffs, service disruptions, and changes in consumer demand resulting from the COVID-19 pandemic have forced sudden unprecedented change in almost every industry worldwide. This article will look at how business leaders and project managers are responding to the “new normal,” and what strategies have been effective at keeping projects going in the midst of global lockdowns.
 

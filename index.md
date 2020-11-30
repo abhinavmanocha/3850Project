@@ -22,7 +22,7 @@ layout: default
 
 ##### __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
-## [Managing Projects During the Covid-19 Pandemic Impact Across Industries](./2020-11-22-managing-projects-during-the-covid-19-pandemic-impact-across-industries.md)
+## [Managing Projects During the Covid-19 Pandemic: Impact Across Industries](./2020-11-22-managing-projects-during-the-covid-19-pandemic-impact-across-industries.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Mass layoffs, service disruptions, and changes in consumer demand resulting from the COVID-19 pandemic have forced sudden unprecedented change in almost every industry worldwide. This article will look at how business leaders and project managers are responding to the “new normal,” and what strategies have been effective at keeping projects going in the midst of global lockdowns.*
 
 ##### __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
