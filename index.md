@@ -28,3 +28,5 @@ layout: default
 ##### __________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
 
 
+## [Teachers and Technology - An Interview](./Alka-Interview.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; *Alka is an accomplished teacher who has been teaching for 10 years at the three to five-grade level and she has never had to work online as a teacher. As schools around the world have started to pivot to online classes on a brief notice, there have been many issues, from mental wellbeing to simple internet access to not having essential support to turn to when assistance is needed. In this interview, we will address some of those technological issues in the context of teaching online during the pandemic.*
