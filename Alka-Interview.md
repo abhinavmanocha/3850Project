@@ -47,3 +47,17 @@ I've discovered several easy solutions that support me when it comes to simple i
 ## Conclusion?
 
 Overall, online teaching has been really helpful to my industry experience. I have benefited a great deal from online teaching, such as: addressing several tasks at a time and responding to changing working environments when they are not ideal or when the technology offered does not help in the way it was designed. As an instructor, there have been some down sides of online teaching and for the students as I don't think they learn to the best of their skills.
+
+## Takeaway
+
+The effect of COVID-19 has undoubtedly culminated in everyone revisiting the innovations that have become the backdrop for many companies. Coronavirus is why we must change our attention from the in-person to the digital and interconnected cyberworld. The transition to this changing world we are now living in has been rather resilient, and companies are struggling to adjust to this uncertain future. Due to this, there is a new demand to educating individuals of emerging technologies.
+
+## Based off Alka’s experience how can companies help educate their employees about new technologies in the workplace?
+
+As we repeatedly saw, there was a lack in suppor. There is a need of infrastructure that needs to be address immediately to help individuals who are not used to this growing amount of technology use in their daily lives. 
+
+There are many solutions that can help, some examples are:
+
+Incentivize the use of technology. New skills using technology can result in a pay increase or a title promotion. Employees should receive compensation for trying to continue to learn and adapt to a climate in which they are already not comfortable in. This can be used as an opportunity to retrain employees who are bored and demotivated. Money can be a great motivator as it is a daily essential. 
+
+Through COVID-19 it is difficult to run things such as “Lunch and Learn” parties but companies still have the option to host seminars to educate individuals and practice team building to help people communicate effectively with one another to help solve their technology problems, as well as simultaneously learn something new. This type of training and mentoring can go a long way when conventional methods of help are not available. 
